@@ -1,0 +1,605 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.25)  28 DEC 2018 16:18
+entering extended mode
+**"./Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).tex"
+("Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).tex"
+LaTeX2e <2018-04-01> patch level 5
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip43
+\f@nch@O@elh=\skip44
+\f@nch@O@erh=\skip45
+\f@nch@O@olh=\skip46
+\f@nch@O@orh=\skip47
+\f@nch@O@elf=\skip48
+\f@nch@O@erf=\skip49
+\f@nch@O@olf=\skip50
+\f@nch@O@orf=\skip51
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2018/09/30 v6.88a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen111
+\Hy@linkcounter=\count91
+\Hy@pagecounter=\count92
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2018/09/30 v6.88a Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count93
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4409.
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count94
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5141.
+\XeTeXLinkMargin=\dimen112
+\Fld@menulength=\count95
+\Field@Width=\dimen113
+\Fld@charsize=\dimen114
+Package hyperref Info: Hyper figures OFF on input line 6396.
+Package hyperref Info: Link nesting OFF on input line 6401.
+Package hyperref Info: Hyper index ON on input line 6404.
+Package hyperref Info: backreferencing OFF on input line 6411.
+Package hyperref Info: Link coloring ON on input line 6414.
+Package hyperref Info: Link coloring with OCG OFF on input line 6421.
+Package hyperref Info: PDF/A mode OFF on input line 6426.
+LaTeX Info: Redefining \ref on input line 6466.
+LaTeX Info: Redefining \pageref on input line 6470.
+\Hy@abspage=\count96
+\c@Item=\count97
+\c@Hfootnote=\count98
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2018/09/30 v6.88a Hyperref driver for pdfTeX
+\Fld@listcount=\count99
+\c@bookmark@seq@number=\count100
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip52
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count101
+\lst@gtempboxa=\box26
+\lst@token=\toks16
+\lst@length=\count102
+\lst@currlwidth=\dimen117
+\lst@column=\count103
+\lst@pos=\count104
+\lst@lostspace=\dimen118
+\lst@width=\dimen119
+\lst@newlines=\count105
+\lst@lineno=\count106
+\lst@maxwidth=\dimen120
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+\c@lstnumber=\count107
+\lst@skipnumbers=\count108
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2018/09/02 1.7 listings configuration
+))
+Package: listings 2018/09/02 1.7 (Carsten Heinz)
+
+("Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).aux")
+\openout1 = `"Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).aux"
+'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=620.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=59.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box28
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 18.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count109
+)
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
+
+("Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).out")
+("Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).out")
+\@outlinefile=\write3
+\openout3 = `"Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).out"
+'.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen121
+\scratchbox=\box29
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen122
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks18
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\c@lstlisting=\count116
+<mu.png, id=51, 416.55624pt x 416.55624pt>
+File: mu.png Graphic file (type png)
+<use mu.png>
+Package pdftex.def Info: mu.png  used on input line 51.
+(pdftex.def)             Requested size: 145.79686pt x 145.79686pt.
+ [1
+
+{C:/Users/jibNKP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./mu.png>]
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 13.59999pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.67 \newpage
+              [1]
+<in0.png, id=67, 487.06969pt x 372.64218pt>
+File: in0.png Graphic file (type png)
+<use in0.png>
+Package pdftex.def Info: in0.png  used on input line 76.
+(pdftex.def)             Requested size: 340.94644pt x 260.84775pt.
+ [2 <./in0.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
+<code2.png, id=74, 764.8575pt x 213.79875pt>
+File: code2.png Graphic file (type png)
+<use code2.png>
+Package pdftex.def Info: code2.png  used on input line 97.
+(pdftex.def)             Requested size: 497.15147pt x 138.96753pt.
+
+Overfull \hbox (27.39645pt too wide) in paragraph at lines 97--98
+ [][] 
+ []
+
+[3 <./code2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 105--107
+
+ []
+
+<code3.png, id=82, 706.13812pt x 135.50626pt>
+File: code3.png Graphic file (type png)
+<use code3.png>
+Package pdftex.def Info: code3.png  used on input line 110.
+(pdftex.def)             Requested size: 494.29332pt x 94.85371pt.
+
+Overfull \hbox (24.5383pt too wide) in paragraph at lines 110--111
+ [][] 
+ []
+
+[4 <./code3.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
+
+ []
+
+<code4.png, id=89, 666.99188pt x 377.91188pt>
+File: code4.png Graphic file (type png)
+<use code4.png>
+Package pdftex.def Info: code4.png  used on input line 121.
+(pdftex.def)             Requested size: 466.89113pt x 264.5365pt.
+[5 <./code4.png>]
+Overfull \hbox (10.97806pt too wide) in paragraph at lines 126--128
+[]\OT1/cmr/m/n/10.95 In the 2nd it-er-a-tion, it will be cal-cu-la-tion for sec
+-ond el-e-ment of the value list which is HuaHin,281,5.
+ []
+
+<code5.png, id=96, 688.82344pt x 375.65344pt>
+File: code5.png Graphic file (type png)
+<use code5.png>
+Package pdftex.def Info: code5.png  used on input line 131.
+(pdftex.def)             Requested size: 482.17313pt x 262.9556pt.
+
+Overfull \hbox (12.4181pt too wide) in paragraph at lines 131--132
+ [][] 
+ []
+
+<code6.png, id=97, 647.41875pt x 91.84312pt>
+File: code6.png Graphic file (type png)
+<use code6.png>
+Package pdftex.def Info: code6.png  used on input line 140.
+(pdftex.def)             Requested size: 453.19003pt x 64.28973pt.
+[6 <./code5.png> <./code6.png>]
+<res.png, id=107, 464.4853pt x 418.56375pt>
+File: res.png Graphic file (type png)
+<use res.png>
+Package pdftex.def Info: res.png  used on input line 153.
+(pdftex.def)             Requested size: 209.01645pt x 188.35193pt.
+<res2.png, id=108, 465.99094pt x 561.59813pt>
+File: res2.png Graphic file (type png)
+<use res2.png>
+Package pdftex.def Info: res2.png  used on input line 154.
+(pdftex.def)             Requested size: 209.69397pt x 252.71681pt.
+<in4.png, id=110, 492.33937pt x 249.93375pt>
+File: in4.png Graphic file (type png)
+<use in4.png>
+Package pdftex.def Info: in4.png  used on input line 162.
+(pdftex.def)             Requested size: 270.78748pt x 137.46397pt.
+ [7 <./res.png> <./res2.png> <./in4.png>]
+<in5.png, id=122, 547.2947pt x 191.21437pt>
+File: in5.png Graphic file (type png)
+<use in5.png>
+Package pdftex.def Info: in5.png  used on input line 172.
+(pdftex.def)             Requested size: 383.10367pt x 133.84914pt.
+<in00.png, id=123, 953.81343pt x 21.07875pt>
+File: in00.png Graphic file (type png)
+<use in00.png>
+Package pdftex.def Info: in00.png  used on input line 180.
+(pdftex.def)             Requested size: 524.599pt x 11.59332pt.
+
+Overfull \hbox (54.84398pt too wide) in paragraph at lines 180--181
+ [][] 
+ []
+
+[8 <./in5.png> <./in00.png>]
+Overfull \hbox (5.83763pt too wide) in paragraph at lines 185--186
+[]\OT1/cmr/m/n/10.95 Now, we can start to run our project by us-ing the com-man
+d "bin/hadoop jar /home-/-patthanayu/-
+ []
+
+<in1.png, id=132, 958.3303pt x 625.58719pt>
+File: in1.png Graphic file (type png)
+<use in1.png>
+Package pdftex.def Info: in1.png  used on input line 189.
+(pdftex.def)             Requested size: 479.16399pt x 312.79283pt.
+
+Overfull \hbox (9.40897pt too wide) in paragraph at lines 189--190
+ [][] 
+ []
+
+<in2.png, id=133, 784.43062pt x 70.76437pt>
+File: in2.png Graphic file (type png)
+<use in2.png>
+Package pdftex.def Info: in2.png  used on input line 197.
+(pdftex.def)             Requested size: 509.87386pt x 45.99628pt.
+
+Overfull \hbox (40.11884pt too wide) in paragraph at lines 197--198
+ [][] 
+ []
+
+[9 <./in1.png> <./in2.png>]
+<in3.png, id=142, 878.53218pt x 219.82124pt>
+File: in3.png Graphic file (type png)
+<use in3.png>
+Package pdftex.def Info: in3.png  used on input line 207.
+(pdftex.def)             Requested size: 509.54901pt x 127.4964pt.
+
+Overfull \hbox (39.79399pt too wide) in paragraph at lines 207--208
+ [][] 
+ []
+
+<in6.png, id=143, 548.80031pt x 109.1578pt>
+File: in6.png Graphic file (type png)
+<use in6.png>
+Package pdftex.def Info: in6.png  used on input line 215.
+(pdftex.def)             Requested size: 384.15758pt x 76.40993pt.
+[10 <./in3.png> <./in6.png>]
+<cal1.png, id=152, 414.54875pt x 647.41875pt>
+File: cal1.png Graphic file (type png)
+<use cal1.png>
+Package pdftex.def Info: cal1.png  used on input line 239.
+(pdftex.def)             Requested size: 165.81656pt x 258.9629pt.
+<cal2.png, id=153, 524.96124pt x 815.045pt>
+File: cal2.png Graphic file (type png)
+<use cal2.png>
+Package pdftex.def Info: cal2.png  used on input line 240.
+(pdftex.def)             Requested size: 209.98077pt x 326.01222pt.
+ [11 <./cal1.png> <./cal2.png>]
+<cal3.png, id=161, 457.71pt x 813.0375pt>
+File: cal3.png Graphic file (type png)
+<use cal3.png>
+Package pdftex.def Info: cal3.png  used on input line 246.
+(pdftex.def)             Requested size: 205.96759pt x 365.8635pt.
+<cal4.png, id=162, 487.8225pt x 496.85625pt>
+File: cal4.png Graphic file (type png)
+<use cal4.png>
+Package pdftex.def Info: cal4.png  used on input line 247.
+(pdftex.def)             Requested size: 219.5181pt x 223.58324pt.
+ [12 <./cal3.png> <./cal4.png>] [13]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 266.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 266.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 266.
+
+Underfull \hbox (badness 10000) in paragraph at lines 265--267
+[][]$\OT1/cmtt/m/n/10.95 https : / / stackoverflow . com / questions / 21926323
+ / what -[] actually -[] happens -[] when -[] ssh -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 269--271
+[][]$\OT1/cmtt/m/n/10.95 https : / / stackoverflow . com / questions / 21369102
+ / hadoop -[] command -[] not -[] found ? fbclid =
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
+[][]$\OT1/cmtt/m/n/10.95 https : / / stackoverflow . com / questions / 15211848
+ / hadoop -[] start -[] dfs -[] sh -[] permission -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 277--279
+[][]$\OT1/cmtt/m/n/10.95 https : / / stackoverflow . com / questions / 15732597
+ / hadoop -[] is -[] asking -[] for -[] the -[] input -[]
+ []
+
+[14]
+Overfull \hbox (161.38458pt too wide) in paragraph at lines 308--311
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (8.38104pt too wide) in paragraph at lines 311--312
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][] 
+ []
+
+[15]
+Overfull \hbox (211.11073pt too wide) in paragraph at lines 338--339
+[][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (4.55595pt too wide) in paragraph at lines 355--356
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][] 
+ []
+
+[16]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 421.
+ [17]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 421.
+ ("Project Hadoop - Report (5988117, 5988186, 5988195, 5988240).aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 421.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 421.
+Package rerunfilecheck Info: File `"Project Hadoop - Report (5988117, 5988186, 
+5988195, 5988240)".out' has not changed.
+(rerunfilecheck)             Checksum: 9A64D88F885ADD0E0016EC797A0B7442;891.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 421.
+ ) 
+Here is how much of TeX's memory you used:
+ 7505 strings out of 492970
+ 108599 string characters out of 3135851
+ 248855 words of memory out of 3000000
+ 11141 multiletter control sequences out of 15000+200000
+ 9530 words of font info for 34 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 28i,11n,43p,1053b,1033s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmtt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt8
+.pfb>
+Output written on "Project Hadoop - Report (5988117, 5988186, 5988195, 5988240)
+.pdf" (18 pages, 1150447 bytes).
+PDF statistics:
+ 401 PDF objects out of 1000 (max. 8388607)
+ 175 named destinations out of 1000 (max. 500000)
+ 197 words of extra memory for PDF output out of 10000 (max. 10000000)
+
